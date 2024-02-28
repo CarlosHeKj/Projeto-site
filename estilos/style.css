@@ -4,7 +4,7 @@
 }
 body{
     background-color: rgb(204, 157, 248);
-    color: purple;
+    
 }
 main{
     background: white;
@@ -12,4 +12,11 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+a{
+    text-decoration: none;
+}
+img.lado{
+float: right;
+height: 100px;
 }
